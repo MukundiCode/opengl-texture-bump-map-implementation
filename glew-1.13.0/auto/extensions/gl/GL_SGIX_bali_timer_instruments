@@ -1,0 +1,6 @@
+GL_SGIX_bali_timer_instruments
+http://www.opengl.org/registry/specs/SGIX/bali_timer_instruments.txt
+GL_SGIX_bali_timer_instruments
+	GL_BALI_GEOM_TIMER_INSTRUMENT 0
+	GL_BALI_INSTRUMENT_TIME_UNIT 0
+	GL_BALI_RASTER_TIMER_INSTRUMENT 0

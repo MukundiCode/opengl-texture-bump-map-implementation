@@ -1,0 +1,7 @@
+GL_SGIX_decimation
+http://www.opengl.org/registry/specs/SGIX/decimation.txt
+GL_SGIX_decimation
+	GL_DECIMATION_X_SGIX 0
+	GL_DECIMATION_Y_SGIX 0
+	GL_MAX_DECIMATION_X_SGIX 0
+	GL_MAX_DECIMATION_Y_SGIX 0

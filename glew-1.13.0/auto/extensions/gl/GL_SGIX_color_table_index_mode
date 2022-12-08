@@ -1,0 +1,6 @@
+GL_SGIX_color_table_index_mode
+http://www.opengl.org/registry/specs/SGIX/color_table_index_mode.txt
+GL_SGIX_color_table_index_mode
+	GL_COLOR_TABLE_ARITH 0
+	GL_COLOR_TABLE_BITS 0
+	GL_COLOR_TABLE_INDEX_MODE 0
